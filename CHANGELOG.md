@@ -1,6 +1,6 @@
 # REDAXO Community Demo - Changelog
 
-## 4.3.0 - 19.07.2025
+## 4.3.0 - 31.08.2025
 
 * Umstellung auf FOR-Namespace
 * Console-Commands in package.yml an FOR-Namespace angepasst
